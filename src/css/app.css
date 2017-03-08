@@ -59,8 +59,8 @@ body {
   background-position: -64px 0;
 }
 
-.box icon.email {
-  background-position: -96px 0;
+.box .icon.email {
+  background-position: -98px 0;
 }
 
 .box .icon.address {
