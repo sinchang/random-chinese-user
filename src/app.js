@@ -2,7 +2,6 @@ import randomEmail from 'random-email';
 import randomName from './partial/randomName';
 import randomCaddress from 'randomCaddress';
 import randomMobileNumber from './partial/randomMobileNumber';
-import './css/app.css';
 
 var nodes = document.querySelectorAll('.box .value');
 var btn = document.getElementById('btn');
